@@ -1,9 +1,10 @@
 # Revised Banded Smith-Waterman Algorithm
 
-This repo is the Software (Python) and Hardware (Verilog) implementation of Revised Banded Smith-Waterman Algorithm.
+This repo is the Software (Python) and Hardware (Verilog) implementations of the Revised BSW Algorithm.
 
-This project is for 111-1 Special Project at National Taiwan University.
+This work is for the 111-1 Special Project, and is based on the 110-2 ICD final project.
 
-The work is based on 110-2 ICD final project and [Adaptively Banded Smith-Waterman Algorithm for Long Reads and Its Hardware Accelerator](https://ieeexplore.ieee.org/document/8445105).
+Advisor: Prof. Yi-Chang Lu, National Taiwan University
 
-Advisor: [Prof. Yi-Chang Lu](https://www.ee.ntu.edu.tw/profile1.php?id=709)
+### Reference
+Y. -L. Liao, Y. -C. Li, N. -C. Chen and Y. -C. Lu, "Adaptively Banded Smith-Waterman Algorithm for Long Reads and Its Hardware Accelerator," 2018 IEEE 29th International Conference on Application-specific Systems, Architectures and Processors (ASAP), 2018, pp. 1-9.
