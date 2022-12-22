@@ -2,6 +2,8 @@
 
 This repo is the Software (Python) and Hardware (Verilog) implementations of the Revised BSW Algorithm.
 
+The algorithm changes the band according to the current scores instead of fixing at the middle in BSW.
+
 This work is for the 111-1 Special Project, and is based on the 110-2 ICD final project.
 
 Advisor: Prof. Yi-Chang Lu, National Taiwan University
