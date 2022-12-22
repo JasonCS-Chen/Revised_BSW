@@ -11,3 +11,5 @@ Advisor: Prof. Yi-Chang Lu, National Taiwan University
 ### Reference
 Y. -L. Liao, Y. -C. Li, N. -C. Chen and Y. -C. Lu, "Adaptively Banded Smith-Waterman Algorithm for Long Reads and Its Hardware Accelerator,"
 2018 IEEE 29th International Conference on Application-specific Systems, Architectures and Processors (ASAP), 2018, pp. 1-9.
+
+github link: ()
