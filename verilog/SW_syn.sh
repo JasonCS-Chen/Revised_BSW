@@ -1,0 +1,1 @@
+ncverilog -f SW_syn.f +define+tb$1+SDFSYN

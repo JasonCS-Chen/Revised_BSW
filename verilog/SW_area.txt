@@ -1,0 +1,30 @@
+ 
+****************************************
+Report : area
+Design : SW
+Version: R-2020.09-SP5
+Date   : Fri Dec 23 04:26:30 2022
+****************************************
+
+Information: Updating design information... (UID-85)
+Library(s) Used:
+
+    typical (File: /home/raid7_2/course/cvsd/CBDK_IC_Contest/CIC/SynopsysDC/db/typical.db)
+
+Number of ports:                         1769
+Number of nets:                         11256
+Number of cells:                         9017
+Number of combinational cells:           8141
+Number of sequential cells:               820
+Number of macros/black boxes:               0
+Number of buf/inv:                       2357
+Number of references:                     165
+
+Combinational area:              93526.739690
+Buf/Inv area:                    15563.460448
+Noncombinational area:           26832.498348
+Macro/Black Box area:                0.000000
+Net Interconnect area:         1067412.052673
+
+Total cell area:                120359.238038
+Total area:                    1187771.290712

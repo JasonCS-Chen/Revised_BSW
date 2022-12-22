@@ -1,0 +1,1 @@
+ncverilog -f SW.f +define+tb$1
