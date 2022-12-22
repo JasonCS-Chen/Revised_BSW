@@ -2,7 +2,7 @@
 
 You can run the Verilog codes with the following commands (10 testcases are provided):
 
-To source the licnese,
+To source the license,
 
 `$ source ncverilog.sh`
 
