@@ -1,6 +1,6 @@
 # Verilog implementation
 
-You can run the Verilog codes with the following commands (10 testcases are provided):
+You can run the Verilog codes with the following commands (10 testcases are provided, Tc = 10ns):
 
 To source the license,
 
